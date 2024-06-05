@@ -1,5 +1,5 @@
 # Install AWS, kubectl & eksctl CLI's
-# updated
+
 ## Step-00: Introduction
 - Install AWS CLI
 - Install kubectl CLI
